@@ -1,0 +1,4 @@
+sample
+======
+
+Better git
